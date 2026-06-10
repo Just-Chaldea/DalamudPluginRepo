@@ -4,7 +4,7 @@
   "Name": "MahjongAdvisor",
   "InternalName": "MahjongAdvisor",
   "AssemblyVersion": "1.2.0.0",
-  "Description": "Mahjong guided-play advisor for FFXIV.",
+  "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
   "Tags": [
@@ -26,6 +26,6 @@
   ],
   "IsTestingExclusive": true,
   "TestingAssemblyVersion": "1.2.0.0",
-  "LastUpdate": "1781063249"
+  "LastUpdate": "1781063601"
 }
 ]
