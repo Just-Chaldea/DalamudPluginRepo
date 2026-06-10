@@ -1,33 +1,31 @@
 [
-  [
-    {
-      "Author": "Just-Chaldea",
-      "Name": "MahjongAdvisor",
-      "InternalName": "MahjongAdvisor",
-      "AssemblyVersion": "1.2.0.0",
-      "Description": "Mahjong guided-play advisor for FFXIV.",
-      "ApplicableVersion": "any",
-      "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
-      "Tags": [
-        "mahjong"
-      ],
-      "DalamudApiLevel": 15,
-      "LoadRequiredState": 0,
-      "LoadSync": false,
-      "CanUnloadAsync": false,
-      "LoadPriority": 0,
-      "IconUrl": "",
-      "Punchline": "Move-by-move advice for Doman Mahjong.",
-      "AcceptsFeedback": true,
-      "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/latest.zip",
-      "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/latest.zip",
-      "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/latest.zip",
-      "CategoryTags": [
-        "utility"
-      ],
-      "IsTestingExclusive": true,
-      "TestingAssemblyVersion": "1.2.0.0",
-      "LastUpdate": "1781062965"
-    }
-  ]
+{
+  "Author": "Just-Chaldea",
+  "Name": "MahjongAdvisor",
+  "InternalName": "MahjongAdvisor",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "Mahjong guided-play advisor for FFXIV.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
+  "Tags": [
+    "mahjong"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Move-by-move advice for Doman Mahjong.",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/latest.zip",
+  "CategoryTags": [
+    "utility"
+  ],
+  "IsTestingExclusive": true,
+  "TestingAssemblyVersion": "1.2.0.0",
+  "LastUpdate": "1781063249"
+}
 ]
