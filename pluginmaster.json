@@ -27,5 +27,36 @@
   "IsTestingExclusive": true,
   "TestingAssemblyVersion": "1.2.0.3",
   "LastUpdate": "1781079465"
+},
+{
+  "Author": "Just-Chaldea",
+  "Name": "VisitorsPass",
+  "InternalName": "VisitorsPass",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Saves housing layouts to MakePlace-compatible files from anywhere you can stand: your own house or any home you visit. No edit permissions or layout mode required, and strictly read-only.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Just-Chaldea/VisitorsPass",
+  "Tags": [
+    "housing",
+    "makeplace",
+    "layout"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Save any housing layout you can walk into - no permissions needed.",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/VisitorsPass/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/VisitorsPass/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/VisitorsPass/latest.zip",
+  "CategoryTags": [
+    "utility"
+  ],
+  "IsTestingExclusive": true,
+  "TestingAssemblyVersion": "0.1.0.0",
+  "LastUpdate": "1781090659"
 }
 ]
