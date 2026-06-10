@@ -3,7 +3,7 @@
   "Author": "Just-Chaldea",
   "Name": "MahjongAdvisor",
   "InternalName": "MahjongAdvisor",
-  "AssemblyVersion": "1.2.0.1",
+  "AssemblyVersion": "1.2.0.2",
   "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
@@ -25,7 +25,7 @@
     "utility"
   ],
   "IsTestingExclusive": true,
-  "TestingAssemblyVersion": "1.2.0.1",
-  "LastUpdate": "1781063952"
+  "TestingAssemblyVersion": "1.2.0.2",
+  "LastUpdate": "1781065562"
 }
 ]
