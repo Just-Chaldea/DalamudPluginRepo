@@ -46,7 +46,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://avatars.githubusercontent.com/u/89628331?size=512",
+  "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
   "Punchline": "Move-by-move advice for Doman Mahjong.",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.6.zip",
@@ -57,6 +57,6 @@
     "utility"
   ],
   "IsTestingExclusive": false,
-  "LastUpdate": "1781534621"
+  "LastUpdate": "1781535200"
 }
 ]
