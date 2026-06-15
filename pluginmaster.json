@@ -34,7 +34,7 @@
   "Author": "Just-Chaldea",
   "Name": "MahjongAdvisor",
   "InternalName": "MahjongAdvisor",
-  "AssemblyVersion": "1.2.1.1",
+  "AssemblyVersion": "1.2.1.2",
   "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
@@ -49,14 +49,14 @@
   "IconUrl": "",
   "Punchline": "Move-by-move advice for Doman Mahjong.",
   "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.1.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.1.zip",
-  "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.1.zip",
-  "TestingAssemblyVersion": "1.2.1.1",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.2.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.2.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.2.zip",
+  "TestingAssemblyVersion": "1.2.1.2",
   "CategoryTags": [
     "utility"
   ],
   "IsTestingExclusive": true,
-  "LastUpdate": "1781506055"
+  "LastUpdate": "1781506695"
 }
 ]
