@@ -30,38 +30,6 @@
 },
 {
   "Author": "Just-Chaldea",
-  "Name": "CarbunclePartner",
-  "InternalName": "CarbunclePartner",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Just-Chaldea/CarbunclePartner",
-  "Tags": [
-    "fishing",
-    "fish",
-    "tracker",
-    "carbuncleplushy"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
-  "Punchline": "Track your caught fish in-game, matched to the carbuncleplushy fish tracker.",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.0.0.0.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.0.0.0.zip",
-  "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.0.0.0.zip",
-  "TestingAssemblyVersion": "1.0.0.0",
-  "CategoryTags": [
-    "utility"
-  ],
-  "IsTestingExclusive": false,
-  "LastUpdate": "1781994229"
-},
-{
-  "Author": "Just-Chaldea",
   "Name": "VisitorsPass",
   "InternalName": "VisitorsPass",
   "AssemblyVersion": "0.1.3.0",
@@ -90,5 +58,37 @@
   ],
   "IsTestingExclusive": false,
   "LastUpdate": "1782337299"
+},
+{
+  "Author": "Just-Chaldea",
+  "Name": "CarbunclePartner",
+  "InternalName": "CarbunclePartner",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Just-Chaldea/CarbunclePartner",
+  "Tags": [
+    "fishing",
+    "fish",
+    "tracker",
+    "carbuncleplushy"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
+  "Punchline": "Track your caught fish in-game, matched to the carbuncleplushy fish tracker.",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.1.0.0.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.1.0.0.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.1.0.0.zip",
+  "TestingAssemblyVersion": "1.1.0.0",
+  "CategoryTags": [
+    "utility"
+  ],
+  "IsTestingExclusive": false,
+  "LastUpdate": "1783054368"
 }
 ]
